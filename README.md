@@ -6,6 +6,8 @@
 - 💬 Ask me about **React, Spring boot, Docker , Kubernetes**
 
 - 📫 How to reach me **senelwafarthy@gmail.com**
+- Deployed Social media project (front-end on vercel)
+- Backend on (Render and Railway.App) https://social-media-frontend-indol.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
