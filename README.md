@@ -7,10 +7,6 @@
 -  <a href ="https://portfolio-kappa-gold-84.vercel.app/">Check My Profile</a>
 
 - 📫 How to reach me **senelwafarthy@gmail.com**
-- <a href ="https://home-services-flax.vercel.app/">Deployed An Application That Allows Users to Book for Services I.e Repair, cleaning,Painting</a>
-- Deployed Social media project (front-end on vercel)
-- Backend on (Render and Railway.App) https://social-media-frontend-indol.vercel.app/
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
