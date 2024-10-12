@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about **React, Spring boot, Docker , Kubernetes**
+- 💬 Ask me about **React,Frappe, Spring boot, Docker , Kubernetes**
 -  <a href ="https://portfolio-kappa-gold-84.vercel.app/">Check My Profile</a>
 
 - 📫 How to reach me **senelwafarthy@gmail.com**
